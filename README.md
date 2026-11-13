@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global API management and developer platform tooling sector is estimated at **$8.7B to $10.6B** (projected to reach **$30B+ by the early 2030s** at an 18–22% CAGR). The market is **moderately to highly fragmented** rather than winner-take-all; while cloud giants and legacy CRM/workflow ecosystems anchor enterprise developer suites, the explosion of microservices, AI agents, MCP (Model Context Protocol), and edge infrastructure has created an expanding multi-vendor ecosystem spanning specialized API gateways, open-source SDK engines, and headless developer portals.
 
 ## SaaS/Hosted Platforms
 
