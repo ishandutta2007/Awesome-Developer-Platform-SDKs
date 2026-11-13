@@ -1,18 +1,24 @@
 # Awesome-Developer-Platform-SDKs
 
-## Top Developer Platform & SDKs Ecosystem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Platform-SDKs?style=social)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> A curated list of top SaaS developer platforms, SDK generators, API gateways, documentation portals, and open-source developer experience (DevEx) tooling ecosystems.
+
+## Overview & Developer Experience Infrastructure
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on API Design, SDK Generation & Developer Experience Infrastructure*  
+*Focused on API Design, SDK Generation, API Gateways & Developer Experience Infrastructure*  
 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Developer Platform & SDKs**. These tools provide the foundational infrastructure for building, testing, and distributing APIs and client libraries—covering API gateways, SDK generators, documentation portals, and developer portals that reduce integration friction for third-party developers.
+This repository tracks notable **SaaS developer platforms** and **open-source developer platform projects**. These tools provide the foundational infrastructure for building, testing, distributing, and managing APIs and client SDK libraries—covering API gateways, automated client SDK generators, interactive documentation portals, and internal developer portals (IDPs) that minimize integration friction for third-party and internal engineers.
 
-**Examples** include Freshworks Developer Platform, Salesforce Developer Platform, Zendesk Developer Platform, Twilio, GitHub, Stripe, Shopify, Atlassian, Slack, and Postman (the category leaders).
+- **Enterprise SaaS category leaders**: Shopify, Salesforce, Stripe, GitHub, Atlassian, Twilio, Slack, Zendesk, Freshworks, and Postman.
+- **Open-source infrastructure**: High-performance API gateways (**Traefik**, **Kong Gateway**), Postman alternatives (**Hoppscotch**, **Bruno**), SDK generation engines (**OpenAPI Generator**, **Swagger Codegen**, **Fern**, **Speakeasy**), developer portals (**Backstage**), and interactive API documentation (**Scalar**, **Swagger UI**).
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted API tooling, open-source SDK generation, and community-driven developer portals—ideal for organizations seeking transparency and predictable costs over per-seat or per-API-call SaaS billing. The open-source landscape is genuinely functional: **OpenAPI Generator** and **Speakeasy** automate SDK creation , **Hoppscotch** and **Bruno** provide Postman alternatives , and **Backstage** delivers a complete developer portal .
-
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+Contributions welcome! Open a PR to add or update entries. Keep descriptions factual, include official URLs, and follow the contribution guidelines.
 
 ## Table of Contents
 - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
