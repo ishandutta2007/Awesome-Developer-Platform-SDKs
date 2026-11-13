@@ -1,6 +1,6 @@
 # Awesome-Developer-Platform-SDKs
 
-# Top Developer Platform & SDKs Ecosystem
+## Top Developer Platform & SDKs Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on API Design, SDK Generation & Developer Experience Infrastructure*  
