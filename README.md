@@ -1,37 +1,45 @@
-# Awesome-Developer-Platform-SDKs
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Developer Platform &amp; SDKs Banner" width="100%">
+</p>
 
+# 🛠️ Awesome-Developer-Platform-SDKs
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Platform-SDKs?style=social)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-> A curated list of top SaaS developer platforms, SDK generators, API gateways, documentation portals, and open-source developer experience (DevEx) tooling ecosystems.
+> 🚀 A curated list of top SaaS developer platforms, SDK generators, API gateways, documentation portals, and open-source developer experience (DevEx) tooling ecosystems.
 
-## Overview & Developer Experience Infrastructure
+## 📌 Overview & Developer Experience Infrastructure
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on API Design, SDK Generation, API Gateways & Developer Experience Infrastructure*  
-**Last updated: March 2026**
+**Last updated: March 2026** 📅
 
 This repository tracks notable **SaaS developer platforms** and **open-source developer platform projects**. These tools provide the foundational infrastructure for building, testing, distributing, and managing APIs and client SDK libraries—covering API gateways, automated client SDK generators, interactive documentation portals, and internal developer portals (IDPs) that minimize integration friction for third-party and internal engineers.
 
-- **Enterprise SaaS category leaders**: Shopify, Salesforce, Stripe, GitHub, Atlassian, Twilio, Slack, Zendesk, Freshworks, and Postman.
-- **Open-source infrastructure**: High-performance API gateways (**Traefik**, **Kong Gateway**), Postman alternatives (**Hoppscotch**, **Bruno**), SDK generation engines (**OpenAPI Generator**, **Swagger Codegen**, **Fern**, **Speakeasy**), developer portals (**Backstage**), and interactive API documentation (**Scalar**, **Swagger UI**).
+- 🏢 **Enterprise SaaS category leaders**: Shopify, Salesforce, Stripe, GitHub, Atlassian, Twilio, Slack, Zendesk, Freshworks, and Postman.
+- 🔓 **Open-source infrastructure**: High-performance API gateways (**Traefik**, **Kong Gateway**), Postman alternatives (**Hoppscotch**, **Bruno**), SDK generation engines (**OpenAPI Generator**, **Swagger Codegen**, **Fern**, **Speakeasy**), developer portals (**Backstage**), and interactive API documentation (**Scalar**, **Swagger UI**).
 
-Contributions welcome! Open a PR to add or update entries. Keep descriptions factual, include official URLs, and follow the contribution guidelines.
+Contributions welcome! Open a PR to add or update entries. Keep descriptions factual, include official URLs, and follow the contribution guidelines. ✨
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global API management and developer platform tooling sector is estimated at **$8.7B to $10.6B** (projected to reach **$30B+ by the early 2030s** at an 18–22% CAGR). The market is **moderately to highly fragmented** rather than winner-take-all; while cloud giants and legacy CRM/workflow ecosystems anchor enterprise developer suites, the explosion of microservices, AI agents, MCP (Model Context Protocol), and edge infrastructure has created an expanding multi-vendor ecosystem spanning specialized API gateways, open-source SDK engines, and headless developer portals.
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Product | Company Scale (Valuation / Market Cap / Revenue) | Description | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|--------------------------------------------------|-------------|-------------------|--------------------------|
@@ -46,7 +54,7 @@ The global API management and developer platform tooling sector is estimated at 
 | **[Freshworks Developer Platform](https://developers.freshworks.com/)** | ~$3.2B Market Cap (Public: FRSH; ~$720M+ Annual Revenue) | Platform for building apps that run inside Freshworks products (Freshdesk, Freshservice, Freshchat, Freshcaller, Freshsales). Provides **FDK (Freshworks Developer Kit)** CLI, App SDK, REST APIs, webhooks, and serverless app support. Apps render in iframes at designated placeholders. | $19/agent/month (Growth plan, billed annually) | 14-day free trial; free developer account for app development & testing in local sandbox |
 | **[Postman](https://www.postman.com/)** | ~$3.0B Valuation (Private; Series D valuation $5.6B, secondary estimate ~$3B) | API development environment with Collections, Mock Servers, Monitors, and **Postman CLI**. March 2026 restructure made collection runs unlimited but removed team workspaces from the free plan. | $9/user/month (Solo plan, billed annually) | Free forever plan (single user only, unlimited collection runs, 3 active mock servers, up to 10,000 mock server/monitor calls/month) |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---------|------------|-------------|
@@ -67,24 +75,39 @@ The global API management and developer platform tooling sector is estimated at 
 | **[Redocly CLI](https://github.com/Redocly/redocly-cli)** | [![Stars](https://img.shields.io/github/stars/Redocly/redocly-cli?style=social&color=white)](https://github.com/Redocly/redocly-cli/stargazers) | Open-source OpenAPI linting, bundling, and multi-file management engine. Enforces enterprise API style guides and compiles multi-file OpenAPI definitions into unified distributions. |
 | **[Speakeasy](https://github.com/speakeasy-api/speakeasy)** | [![Stars](https://img.shields.io/github/stars/speakeasy-api/speakeasy?style=social&color=white)](https://github.com/speakeasy-api/speakeasy/stargazers) | **Developer experience-first SDK generator.** Generates idiomatic, type-safe client SDKs from OpenAPI specs with built-in authentication, pagination, automatic retries, and GitHub Actions CI/CD workflows. |
 
-**Frameworks for building custom systems**: Combine **OpenAPI Generator**, **Fern**, or **Speakeasy** for SDK generation from your API specs, **Spectral** or **Redocly CLI** for API linting, **Backstage** for a developer portal, **Kong** or **Traefik** for gateway routing, and **Hoppscotch** or **Bruno** for API testing—creating a fully open-source developer platform stack without per-seat SaaS fees.
+**Frameworks for building custom systems**: Combine **OpenAPI Generator**, **Fern**, or **Speakeasy** for SDK generation from your API specs, **Spectral** or **Redocly CLI** for API linting, **Backstage** for a developer portal, **Kong** or **Traefik** for gateway routing, and **Hoppscotch** or **Bruno** for API testing—creating a fully open-source developer platform stack without per-seat SaaS fees. 💡
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+1. 🍴 Fork the repository.
+2. 📝 Add/edit entries in `README.md` (follow the existing table schema and alphabetical or metric ordering).
+3. 🔗 Include: name, official documentation/product link, 1–2 sentence description, company scale or star counts, pricing, and free tier limits.
+4. 🚀 Submit a PR with a clear, concise explanation of the changes.
 
-Star the repo if you find it useful!
+⭐ Star the repo if you find it helpful!
 
-## Disclaimer
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Developer-Platform-SDKs&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Developer-Platform-SDKs&type=date&legend=top-left)
+
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome-Developer-Platform-SDKs**! 🙏
+
+If you found this ecosystem guide valuable, here are a few great ways you can support the project:
+- ⭐ **Star this repository** to show your appreciation and help more developers discover it.
+- 🍴 **Fork and contribute** by submitting new platforms, SDK generators, or documentation tools via PR.
+- 📢 **Share with your team & network** on social media, developer communities, and internal company channels.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and open-source curation, consider sponsoring on GitHub:  
+  👉 **[Sponsor @ishandutta2007 on GitHub Sponsors](https://github.com/sponsors/ishandutta2007)**
+
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Developer platforms handle API credentials and potentially sensitive application data; enforce least-privilege scopes, token rotation, and audit logging.
-- **Platform lock-in and lifecycle risks vary significantly.** Atlassian's **Connect** reaches end of support **January 31, 2027**—apps must migrate to **Forge** . Freshworks apps run in iframes with FDK and Node.js version requirements . Zendesk uses **ZAF** and **ZIS** with Sunshine Platform . **Open-source SDK generation is genuinely viable**: OpenAPI Generator supports 50+ languages and Speakeasy focuses on idiomatic developer experience . **Postman's free tier is now single-user only** as of March 2026—teams needing collaboration must migrate to Hoppscotch, Bruno, or paid Postman plans .
+- **Platform lock-in and lifecycle risks vary significantly.** Atlassian's **Connect** reaches end of support **January 31, 2027**—apps must migrate to **Forge**. Freshworks apps run in iframes with FDK and Node.js version requirements. Zendesk uses **ZAF** and **ZIS** with Sunshine Platform. **Open-source SDK generation is genuinely viable**: OpenAPI Generator supports 50+ languages and Speakeasy focuses on idiomatic developer experience. **Postman's free tier is now single-user only** as of March 2026—teams needing collaboration must migrate to Hoppscotch, Bruno, or paid Postman plans.
 
 ---
 
-**Made for API developers, platform engineers, and teams building developer-facing infrastructure.**  
-Let's make developer platforms and SDKs more open, accessible, and developer-friendly.
+**Made with ❤️ for API developers, platform engineers, and teams building developer-facing infrastructure.**  
+Let's make developer platforms and SDKs more open, accessible, and developer-friendly! 🚀
