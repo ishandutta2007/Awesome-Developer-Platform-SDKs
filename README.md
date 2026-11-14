@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Platform-SDKs?style=social)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Platform-SDKs?style=social)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Developer-Platform-SDKs/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,7 +56,7 @@ The global API management and developer platform tooling sector is estimated at 
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** | [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | **Open-source API development ecosystem (Postman alternative).** Lightweight, fast web-based API client supporting REST, GraphQL, and WebSockets with collections, environments, and team collaboration. Self-hostable. |
 | **[Traefik](https://github.com/traefik/traefik)** | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | Modern HTTP reverse proxy and cloud-native API gateway that integrates directly with existing infrastructure (Docker, Swarm, Kubernetes, Marathon, Consul, Etcd) and configures itself automatically and dynamically. |
@@ -81,7 +81,7 @@ The global API management and developer platform tooling sector is estimated at 
 
 1. 🍴 Fork the repository.
 2. 📝 Add/edit entries in `README.md` (follow the existing table schema and alphabetical or metric ordering).
-3. 🔗 Include: name, official documentation/product link, 1–2 sentence description, company scale or star counts, pricing, and free tier limits.
+3. 🔗 Include: name, official documentation/product link, 1–2 sentence description, company scale or Stars_Counts, pricing, and free tier limits.
 4. 🚀 Submit a PR with a clear, concise explanation of the changes.
 
 ⭐ Star the repo if you find it helpful!
